@@ -1,4 +1,4 @@
-# SEMICONS TECHNOLOGIES
+# Semicons Technologies
 
 > ### A platform that provides and offers innovative thinkers or individuals, the necessary tools and knowledge to bring their imaginations to life.
 
@@ -52,7 +52,7 @@ AF_Stepper	KEYWORD1
 ## Methods and Functions (KEYWORD2)
 
 ```c
-run	      KEYWORD2
+run       KEYWORD2
 step	  KEYWORD2
 enable	  KEYWORD2
 onestep	  KEYWORD2
@@ -66,10 +66,10 @@ setSpeed  KEYWORD2
 BRAKE	        LITERAL1
 SINGLE	        LITERAL1
 DOUBLE	        LITERAL1
-BACKWARD	    LITERAL1
+BACKWARD        LITERAL1
 FORWARD	        LITERAL1
 RELEASE	        LITERAL1
-MICROSTEP	    LITERAL1
-INTERLEAVE	    LITERAL1
+MICROSTEP       LITERAL1
+INTERLEAVE      LITERAL1
 MICROSTEPPING	LITERAL1
 ```
